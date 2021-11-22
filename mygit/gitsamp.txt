@@ -1,0 +1,4 @@
+git config --global user.name "sudhakar95"
+git config --global user.email "sudhakarvj31@gmail.com"
+git config --global core.editor vim
+git config --global core.compression 2
