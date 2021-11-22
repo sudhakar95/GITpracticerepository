@@ -4,3 +4,5 @@ git config --global core.editor vim
 git config --global core.compression 2
 
 second sample --- commit 2
+
+Third sample --- commit 3
